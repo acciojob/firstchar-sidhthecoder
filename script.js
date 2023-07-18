@@ -1,6 +1,6 @@
 function firstChar(text) {
-  String str=text.trim();
-  return str[0];
+  let str=text.trim();
+  return str.charAt(0);
 }
 
 // Do not change the code below
